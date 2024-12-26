@@ -1,0 +1,101 @@
+ParticipantID,Gene,SNP,Allele,Effect
+ID_1,Gene_0,rs1000,A/T,Increase BMI
+ID_2,Gene_1,rs1001,G/C,Neutral
+ID_3,Gene_2,rs1002,A/T,Neutral
+ID_4,Gene_3,rs1003,G/C,Increase BMI
+ID_5,Gene_4,rs1004,A/T,Neutral
+ID_6,Gene_5,rs1005,G/C,Neutral
+ID_7,Gene_6,rs1006,A/T,Increase BMI
+ID_8,Gene_7,rs1007,G/C,Neutral
+ID_9,Gene_8,rs1008,A/T,Neutral
+ID_10,Gene_9,rs1009,G/C,Increase BMI
+ID_11,Gene_10,rs1010,A/T,Neutral
+ID_12,Gene_11,rs1011,G/C,Neutral
+ID_13,Gene_12,rs1012,A/T,Increase BMI
+ID_14,Gene_13,rs1013,G/C,Neutral
+ID_15,Gene_14,rs1014,A/T,Neutral
+ID_16,Gene_15,rs1015,G/C,Increase BMI
+ID_17,Gene_16,rs1016,A/T,Neutral
+ID_18,Gene_17,rs1017,G/C,Neutral
+ID_19,Gene_18,rs1018,A/T,Increase BMI
+ID_20,Gene_19,rs1019,G/C,Neutral
+ID_21,Gene_0,rs1020,A/T,Neutral
+ID_22,Gene_1,rs1021,G/C,Increase BMI
+ID_23,Gene_2,rs1022,A/T,Neutral
+ID_24,Gene_3,rs1023,G/C,Neutral
+ID_25,Gene_4,rs1024,A/T,Increase BMI
+ID_26,Gene_5,rs1025,G/C,Neutral
+ID_27,Gene_6,rs1026,A/T,Neutral
+ID_28,Gene_7,rs1027,G/C,Increase BMI
+ID_29,Gene_8,rs1028,A/T,Neutral
+ID_30,Gene_9,rs1029,G/C,Neutral
+ID_31,Gene_10,rs1030,A/T,Increase BMI
+ID_32,Gene_11,rs1031,G/C,Neutral
+ID_33,Gene_12,rs1032,A/T,Neutral
+ID_34,Gene_13,rs1033,G/C,Increase BMI
+ID_35,Gene_14,rs1034,A/T,Neutral
+ID_36,Gene_15,rs1035,G/C,Neutral
+ID_37,Gene_16,rs1036,A/T,Increase BMI
+ID_38,Gene_17,rs1037,G/C,Neutral
+ID_39,Gene_18,rs1038,A/T,Neutral
+ID_40,Gene_19,rs1039,G/C,Increase BMI
+ID_41,Gene_0,rs1040,A/T,Neutral
+ID_42,Gene_1,rs1041,G/C,Neutral
+ID_43,Gene_2,rs1042,A/T,Increase BMI
+ID_44,Gene_3,rs1043,G/C,Neutral
+ID_45,Gene_4,rs1044,A/T,Neutral
+ID_46,Gene_5,rs1045,G/C,Increase BMI
+ID_47,Gene_6,rs1046,A/T,Neutral
+ID_48,Gene_7,rs1047,G/C,Neutral
+ID_49,Gene_8,rs1048,A/T,Increase BMI
+ID_50,Gene_9,rs1049,G/C,Neutral
+ID_51,Gene_10,rs1050,A/T,Neutral
+ID_52,Gene_11,rs1051,G/C,Increase BMI
+ID_53,Gene_12,rs1052,A/T,Neutral
+ID_54,Gene_13,rs1053,G/C,Neutral
+ID_55,Gene_14,rs1054,A/T,Increase BMI
+ID_56,Gene_15,rs1055,G/C,Neutral
+ID_57,Gene_16,rs1056,A/T,Neutral
+ID_58,Gene_17,rs1057,G/C,Increase BMI
+ID_59,Gene_18,rs1058,A/T,Neutral
+ID_60,Gene_19,rs1059,G/C,Neutral
+ID_61,Gene_0,rs1060,A/T,Increase BMI
+ID_62,Gene_1,rs1061,G/C,Neutral
+ID_63,Gene_2,rs1062,A/T,Neutral
+ID_64,Gene_3,rs1063,G/C,Increase BMI
+ID_65,Gene_4,rs1064,A/T,Neutral
+ID_66,Gene_5,rs1065,G/C,Neutral
+ID_67,Gene_6,rs1066,A/T,Increase BMI
+ID_68,Gene_7,rs1067,G/C,Neutral
+ID_69,Gene_8,rs1068,A/T,Neutral
+ID_70,Gene_9,rs1069,G/C,Increase BMI
+ID_71,Gene_10,rs1070,A/T,Neutral
+ID_72,Gene_11,rs1071,G/C,Neutral
+ID_73,Gene_12,rs1072,A/T,Increase BMI
+ID_74,Gene_13,rs1073,G/C,Neutral
+ID_75,Gene_14,rs1074,A/T,Neutral
+ID_76,Gene_15,rs1075,G/C,Increase BMI
+ID_77,Gene_16,rs1076,A/T,Neutral
+ID_78,Gene_17,rs1077,G/C,Neutral
+ID_79,Gene_18,rs1078,A/T,Increase BMI
+ID_80,Gene_19,rs1079,G/C,Neutral
+ID_81,Gene_0,rs1080,A/T,Neutral
+ID_82,Gene_1,rs1081,G/C,Increase BMI
+ID_83,Gene_2,rs1082,A/T,Neutral
+ID_84,Gene_3,rs1083,G/C,Neutral
+ID_85,Gene_4,rs1084,A/T,Increase BMI
+ID_86,Gene_5,rs1085,G/C,Neutral
+ID_87,Gene_6,rs1086,A/T,Neutral
+ID_88,Gene_7,rs1087,G/C,Increase BMI
+ID_89,Gene_8,rs1088,A/T,Neutral
+ID_90,Gene_9,rs1089,G/C,Neutral
+ID_91,Gene_10,rs1090,A/T,Increase BMI
+ID_92,Gene_11,rs1091,G/C,Neutral
+ID_93,Gene_12,rs1092,A/T,Neutral
+ID_94,Gene_13,rs1093,G/C,Increase BMI
+ID_95,Gene_14,rs1094,A/T,Neutral
+ID_96,Gene_15,rs1095,G/C,Neutral
+ID_97,Gene_16,rs1096,A/T,Increase BMI
+ID_98,Gene_17,rs1097,G/C,Neutral
+ID_99,Gene_18,rs1098,A/T,Neutral
+ID_100,Gene_19,rs1099,G/C,Increase BMI
